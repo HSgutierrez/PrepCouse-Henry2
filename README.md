@@ -1,2 +1,1 @@
-# PrepCouse-Henry2
-creando repositorio de prueba del modulo dos del prepcouse henry
+este es mi proyecto del modulo de henry prep couse para ser el mejor developer
